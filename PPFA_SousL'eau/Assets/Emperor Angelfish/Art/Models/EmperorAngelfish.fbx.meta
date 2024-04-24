@@ -57,8 +57,162 @@ ModelImporter:
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []
       events: []
-      transformMask: []
-      maskType: 3
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EmperorAngelfish_body3
+        weight: 1
+      - path: EmperorAngelfish_fins1
+        weight: 1
+      - path: EmperorAngelfish_root
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_1/EmperorAngelfish_fin_l_1_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_2/EmperorAngelfish_fin_l_2_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_3/EmperorAngelfish_fin_l_3_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_4
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_4/EmperorAngelfish_fin_l_4_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_l_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_l_1/EmperorAngelfish_fin_pectoralFront_l_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_l_1/EmperorAngelfish_fin_pectoralFront_l_2/EmperorAngelfish_fin_pectoralFront_l_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_l_1/EmperorAngelfish_fin_pectoralFront_l_2/EmperorAngelfish_fin_pectoralFront_l_3/EmperorAngelfish_fin_pectoralFront_l_4
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_l_1/EmperorAngelfish_fin_pectoralFront_l_2/EmperorAngelfish_fin_pectoralFront_l_3/EmperorAngelfish_fin_pectoralFront_l_4/EmperorAngelfish_fin_pectoralFront_l_5
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_l_1/EmperorAngelfish_fin_pectoralFront_l_2/EmperorAngelfish_fin_pectoralFront_l_3/EmperorAngelfish_fin_pectoralFront_l_4/EmperorAngelfish_fin_pectoralFront_l_5/EmperorAngelfish_fin_pectoralFront_l_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_r_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_r_1/EmperorAngelfish_fin_pectoralFront_r_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_r_1/EmperorAngelfish_fin_pectoralFront_r_2/EmperorAngelfish_fin_pectoralFront_r_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_r_1/EmperorAngelfish_fin_pectoralFront_r_2/EmperorAngelfish_fin_pectoralFront_r_3/EmperorAngelfish_fin_pectoralFront_r_4
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_r_1/EmperorAngelfish_fin_pectoralFront_r_2/EmperorAngelfish_fin_pectoralFront_r_3/EmperorAngelfish_fin_pectoralFront_r_4/EmperorAngelfish_fin_pectoralFront_r_5
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_r_1/EmperorAngelfish_fin_pectoralFront_r_2/EmperorAngelfish_fin_pectoralFront_r_3/EmperorAngelfish_fin_pectoralFront_r_4/EmperorAngelfish_fin_pectoralFront_r_5/EmperorAngelfish_fin_pectoralFront_r_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_1/EmperorAngelfish_fin_r_1_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_2/EmperorAngelfish_fin_r_2_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_3/EmperorAngelfish_fin_r_3_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_4
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_4/EmperorAngelfish_fin_r_4_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_head
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_head/EmperorAngelfish_eye_l
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_head/EmperorAngelfish_eye_r
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_head/EmperorAngelfish_jaw
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_head/EmperorAngelfish_jaw/EmperorAngelfish_jaw_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_fin_pectoral1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_fin_pectoral1/EmperorAngelfish_fin_pectoral1_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_fin_pectoral2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_fin_pectoral2/EmperorAngelfish_fin_pectoral2_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_fin_pectoral3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_fin_pectoral3/EmperorAngelfish_fin_pectoral3_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_fin_pectoral3/EmperorAngelfish_fin_pectoral3_2/EmperorAngelfish_fin_pectoral3_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_fin_pectoral4
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_fin_pectoral4/EmperorAngelfish_fin_pectoral4_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_fin_pectoral4/EmperorAngelfish_fin_pectoral4_2/EmperorAngelfish_fin_pectoral4_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_spine_fin7_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_spine_fin7_1/EmperorAngelfish_spine_fin7_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_spine_fin7_1/EmperorAngelfish_spine_fin7_2/EmperorAngelfish_spine_fin7_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_spine_fin8_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_spine_fin8_1/EmperorAngelfish_spine_fin8_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_spine_fin8_1/EmperorAngelfish_spine_fin8_2/EmperorAngelfish_spine_fin8_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_tail_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_tail_1/EmperorAngelfish_tail_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_tail_1/EmperorAngelfish_tail_2/EmperorAngelfish_tail_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_tail_1/EmperorAngelfish_tail_2/EmperorAngelfish_tail_3/EmperorAngelfish_tail_3_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_fin6
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_fin6/EmperorAngelfish_spine_fin6_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_fin6/EmperorAngelfish_spine_fin6_2/EmperorAngelfish_spine_fin6_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_fin4
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_fin4/EmperorAngelfish_spine_fin4_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_fin5
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_fin5/EmperorAngelfish_spine_fin5_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_fin2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_fin2/EmperorAngelfish_spine_fin2_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_fin3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_fin3/EmperorAngelfish_spine_fin3_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_fin1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_fin1/EmperorAngelfish_spine_fin1_tip
+        weight: 1
+      maskType: 0
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     isReadable: 0
