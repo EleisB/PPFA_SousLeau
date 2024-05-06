@@ -334,7 +334,7 @@ GameObject:
   - component: {fileID: 34637105}
   - component: {fileID: 34637104}
   - component: {fileID: 34637103}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteau (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1335,7 +1335,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 41739881}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Etage 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1545,7 +1545,7 @@ GameObject:
   - component: {fileID: 82345692}
   - component: {fileID: 82345691}
   - component: {fileID: 82345690}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteau (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3103,7 +3103,7 @@ GameObject:
   - component: {fileID: 138629715}
   - component: {fileID: 138629714}
   - component: {fileID: 138629713}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5096,7 +5096,7 @@ GameObject:
   - component: {fileID: 233416484}
   - component: {fileID: 233416483}
   - component: {fileID: 233416482}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5746,7 +5746,7 @@ GameObject:
   - component: {fileID: 250714893}
   - component: {fileID: 250714892}
   - component: {fileID: 250714891}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteau (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6752,7 +6752,7 @@ GameObject:
   - component: {fileID: 251637803}
   - component: {fileID: 251637802}
   - component: {fileID: 251637801}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteau (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7758,7 +7758,7 @@ GameObject:
   - component: {fileID: 271245495}
   - component: {fileID: 271245494}
   - component: {fileID: 271245493}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: mur cantine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8630,7 +8630,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 312520919}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.67944956, y: 0.000000116394, z: -0.00000010778446, w: 0.7337222}
+  m_LocalRotation: {x: 0.67944956, y: -0.000000116394, z: 0.00000010778446, w: 0.7337222}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -8652,7 +8652,7 @@ GameObject:
   - component: {fileID: 313719631}
   - component: {fileID: 313719630}
   - component: {fileID: 313719629}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9616,7 +9616,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 332302346}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.65234876, y: 0.00000011387599, z: -0.00000009801426, w: 0.75791895}
+  m_LocalRotation: {x: 0.65234876, y: -0.00000011387599, z: 0.00000009801426, w: 0.75791895}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -9638,7 +9638,7 @@ GameObject:
   - component: {fileID: 359407061}
   - component: {fileID: 359407060}
   - component: {fileID: 359407059}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10453,7 +10453,7 @@ GameObject:
   - component: {fileID: 367361413}
   - component: {fileID: 367361412}
   - component: {fileID: 367361411}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11103,7 +11103,7 @@ GameObject:
   - component: {fileID: 373991342}
   - component: {fileID: 373991341}
   - component: {fileID: 373991340}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11753,7 +11753,7 @@ GameObject:
   - component: {fileID: 381046970}
   - component: {fileID: 381046969}
   - component: {fileID: 381046968}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12403,7 +12403,7 @@ GameObject:
   - component: {fileID: 383950575}
   - component: {fileID: 383950574}
   - component: {fileID: 383950573}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: contour
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14960,7 +14960,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 398887985}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.6659912, y: -0.000000004813223, z: 0.000000004297236, w: 0.7459597}
+  m_LocalRotation: {x: 0.6659912, y: 0.0000000048132245, z: -0.000000004297237, w: 0.7459597}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -15142,7 +15142,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 415844627}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Etage 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15189,7 +15189,7 @@ GameObject:
   - component: {fileID: 454695550}
   - component: {fileID: 454695549}
   - component: {fileID: 454695548}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteau (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16525,7 +16525,7 @@ GameObject:
   - component: {fileID: 511155451}
   - component: {fileID: 511155450}
   - component: {fileID: 511155449}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17175,7 +17175,7 @@ GameObject:
   - component: {fileID: 517779995}
   - component: {fileID: 517779994}
   - component: {fileID: 517779993}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: murs cuisine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18358,7 +18358,7 @@ GameObject:
   - component: {fileID: 574359010}
   - component: {fileID: 574359009}
   - component: {fileID: 574359008}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19008,7 +19008,7 @@ GameObject:
   - component: {fileID: 575003170}
   - component: {fileID: 575003169}
   - component: {fileID: 575003168}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteau (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20014,7 +20014,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 588136284}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteaux petit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20324,7 +20324,7 @@ GameObject:
   - component: {fileID: 612504114}
   - component: {fileID: 612504113}
   - component: {fileID: 612504112}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteau (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21495,7 +21495,7 @@ GameObject:
   - component: {fileID: 637259734}
   - component: {fileID: 637259733}
   - component: {fileID: 637259732}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22305,7 +22305,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 679212537}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteaux grand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22349,7 +22349,7 @@ GameObject:
   - component: {fileID: 680374286}
   - component: {fileID: 680374285}
   - component: {fileID: 680374284}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23056,7 +23056,7 @@ GameObject:
   - component: {fileID: 696386725}
   - component: {fileID: 696386724}
   - component: {fileID: 696386723}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23800,7 +23800,7 @@ GameObject:
   - component: {fileID: 718189749}
   - component: {fileID: 718189748}
   - component: {fileID: 718189747}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24872,7 +24872,7 @@ GameObject:
   - component: {fileID: 742790849}
   - component: {fileID: 742790848}
   - component: {fileID: 742790847}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25522,7 +25522,7 @@ GameObject:
   - component: {fileID: 753827584}
   - component: {fileID: 753827583}
   - component: {fileID: 753827582}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26672,7 +26672,7 @@ GameObject:
   - component: {fileID: 795851468}
   - component: {fileID: 795851467}
   - component: {fileID: 795851466}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteau (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27678,7 +27678,7 @@ GameObject:
   - component: {fileID: 833684614}
   - component: {fileID: 833684613}
   - component: {fileID: 833684612}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28493,7 +28493,7 @@ GameObject:
   - component: {fileID: 857587012}
   - component: {fileID: 857587011}
   - component: {fileID: 857587010}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29143,7 +29143,7 @@ GameObject:
   - component: {fileID: 863335972}
   - component: {fileID: 863335971}
   - component: {fileID: 863335970}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29793,7 +29793,7 @@ GameObject:
   - component: {fileID: 875439962}
   - component: {fileID: 875439961}
   - component: {fileID: 875439960}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30608,7 +30608,7 @@ GameObject:
   - component: {fileID: 887143856}
   - component: {fileID: 887143855}
   - component: {fileID: 887143854}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteau (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31779,7 +31779,7 @@ GameObject:
   - component: {fileID: 907224389}
   - component: {fileID: 907224388}
   - component: {fileID: 907224387}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteau (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32785,7 +32785,7 @@ GameObject:
   - component: {fileID: 944780219}
   - component: {fileID: 944780218}
   - component: {fileID: 944780217}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33507,7 +33507,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.67944956, y: 0.00000023278803, z: -0.00000021556895, w: 0.7337222}
+  m_LocalRotation: {x: 0.67944956, y: -0.00000023278803, z: 0.00000021556895, w: 0.7337222}
   m_LocalPosition: {x: 5.15, y: 67.56, z: 2.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -33892,7 +33892,7 @@ GameObject:
   - component: {fileID: 1047525748}
   - component: {fileID: 1047525747}
   - component: {fileID: 1047525746}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteau (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34898,7 +34898,7 @@ GameObject:
   - component: {fileID: 1065316937}
   - component: {fileID: 1065316936}
   - component: {fileID: 1065316935}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35713,7 +35713,7 @@ GameObject:
   - component: {fileID: 1092723366}
   - component: {fileID: 1092723365}
   - component: {fileID: 1092723364}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36528,7 +36528,7 @@ GameObject:
   - component: {fileID: 1100101369}
   - component: {fileID: 1100101368}
   - component: {fileID: 1100101367}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38672,7 +38672,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1189848706}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: BackUp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38882,7 +38882,7 @@ GameObject:
   - component: {fileID: 1229662840}
   - component: {fileID: 1229662839}
   - component: {fileID: 1229662838}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40765,7 +40765,7 @@ GameObject:
   - component: {fileID: 1280591318}
   - component: {fileID: 1280591317}
   - component: {fileID: 1280591316}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteau (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41771,7 +41771,7 @@ GameObject:
   - component: {fileID: 1300129764}
   - component: {fileID: 1300129763}
   - component: {fileID: 1300129762}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ref boutique 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42421,7 +42421,7 @@ GameObject:
   - component: {fileID: 1313209634}
   - component: {fileID: 1313209633}
   - component: {fileID: 1313209632}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sol
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44121,7 +44121,7 @@ GameObject:
   - component: {fileID: 1346431510}
   - component: {fileID: 1346431509}
   - component: {fileID: 1346431508}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45129,7 +45129,7 @@ GameObject:
   - component: {fileID: 1395732938}
   - component: {fileID: 1395732937}
   - component: {fileID: 1395732936}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45779,7 +45779,7 @@ GameObject:
   - component: {fileID: 1398752399}
   - component: {fileID: 1398752398}
   - component: {fileID: 1398752397}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteau (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46950,7 +46950,7 @@ GameObject:
   - component: {fileID: 1417328981}
   - component: {fileID: 1417328980}
   - component: {fileID: 1417328979}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Dome grand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -52547,7 +52547,7 @@ GameObject:
   - component: {fileID: 1462058571}
   - component: {fileID: 1462058570}
   - component: {fileID: 1462058569}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -53197,7 +53197,7 @@ GameObject:
   - component: {fileID: 1498620402}
   - component: {fileID: 1498620401}
   - component: {fileID: 1498620400}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: pente (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -54268,7 +54268,7 @@ GameObject:
   - component: {fileID: 1538594867}
   - component: {fileID: 1538594866}
   - component: {fileID: 1538594865}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -55083,7 +55083,7 @@ GameObject:
   - component: {fileID: 1604625221}
   - component: {fileID: 1604625220}
   - component: {fileID: 1604625219}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -55728,7 +55728,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1632789643}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Etage 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56269,7 +56269,7 @@ GameObject:
   - component: {fileID: 1712502184}
   - component: {fileID: 1712502183}
   - component: {fileID: 1712502182}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plafond / sol 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58084,7 +58084,7 @@ GameObject:
   - component: {fileID: 1749801637}
   - component: {fileID: 1749801636}
   - component: {fileID: 1749801635}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Dome petit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64184,7 +64184,7 @@ GameObject:
   - component: {fileID: 1757968388}
   - component: {fileID: 1757968387}
   - component: {fileID: 1757968386}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64834,7 +64834,7 @@ GameObject:
   - component: {fileID: 1762550515}
   - component: {fileID: 1762550514}
   - component: {fileID: 1762550513}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: back up cantine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -65484,7 +65484,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1769623286}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Salle commune
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -66027,7 +66027,7 @@ GameObject:
   - component: {fileID: 1850921595}
   - component: {fileID: 1850921594}
   - component: {fileID: 1850921593}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -67172,7 +67172,7 @@ GameObject:
   - component: {fileID: 1874543322}
   - component: {fileID: 1874543321}
   - component: {fileID: 1874543320}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: pente (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -68287,7 +68287,7 @@ GameObject:
   - component: {fileID: 1902908100}
   - component: {fileID: 1902908099}
   - component: {fileID: 1902908098}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteau (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -69293,7 +69293,7 @@ GameObject:
   - component: {fileID: 1964492090}
   - component: {fileID: 1964492089}
   - component: {fileID: 1964492088}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -70235,7 +70235,7 @@ GameObject:
   - component: {fileID: 1991605804}
   - component: {fileID: 1991605803}
   - component: {fileID: 1991605802}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plafond / sol 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72210,7 +72210,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2023513675}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "Cit\xE9 Etage 1"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72880,7 +72880,7 @@ GameObject:
   - component: {fileID: 2086338730}
   - component: {fileID: 2086338729}
   - component: {fileID: 2086338728}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: pente backUp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73892,7 +73892,7 @@ GameObject:
   - component: {fileID: 2106331587}
   - component: {fileID: 2106331586}
   - component: {fileID: 2106331585}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ref parralele au sol
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74245,7 +74245,7 @@ GameObject:
   - component: {fileID: 2113622012}
   - component: {fileID: 2113622011}
   - component: {fileID: 2113622010}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: pente (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74921,7 +74921,7 @@ GameObject:
   - component: {fileID: 2119441732}
   - component: {fileID: 2119441731}
   - component: {fileID: 2119441730}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Boutique (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75768,7 +75768,7 @@ GameObject:
   - component: {fileID: 2146639583}
   - component: {fileID: 2146639582}
   - component: {fileID: 2146639581}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poteau (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
