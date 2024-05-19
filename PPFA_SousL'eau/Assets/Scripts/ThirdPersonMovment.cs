@@ -10,27 +10,35 @@ public class ThirdPersonMovment : MonoBehaviour {
     public float speed = 6f;
     public float turnSmoothTime = 80f;
 
-
+    private bool isInventaire = false;
 
     void FixedUpdate() {
 
-        //Recup input z (W car qwerty)
-        float forwardZ = Input.GetKey(KeyCode.W) ? 1 : 0;
+        // Ne faire que si inventaire pas actif 
+        if (isInventaire == false) {
+            
+            //Recup input z (W car qwerty)
+            float forwardZ = Input.GetKey(KeyCode.W) ? 1 : 0;
 
-        //Fait tourner en fonction de la camera + smooth
-        transform.rotation = Quaternion.RotateTowards(transform.rotation, cam.transform.rotation, turnSmoothTime * Time.fixedDeltaTime);
+            //Fait tourner en fonction de la camera + smooth
+            transform.rotation = Quaternion.RotateTowards(transform.rotation, cam.transform.rotation, turnSmoothTime * Time.fixedDeltaTime);
 
-        // Move et rotation si on bouge 
-        if (forwardZ >= 0.1) {
+            // Move et rotation si on bouge 
+            if (forwardZ >= 0.1) {
 
-            // Avancer en fonction de la cam (avec le controler character)
-            Vector3 moveDir = transform.rotation * Vector3.forward;
-            controller.Move(moveDir.normalized * speed * Time.deltaTime);
+                // Avancer en fonction de la cam (avec le controler character)
+                Vector3 moveDir = transform.rotation * Vector3.forward;
+                controller.Move(moveDir.normalized * speed * Time.deltaTime);
 
+            }
         }
-        
     }
 
+    public void SwitchInventaire (bool inventaire) {
+        isInventaire = inventaire;
+        Debug.Log ("switch !");
+
+    }
 
     /* Vielle version 
      * 
