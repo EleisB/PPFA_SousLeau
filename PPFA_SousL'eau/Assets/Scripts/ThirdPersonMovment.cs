@@ -9,14 +9,35 @@ public class ThirdPersonMovment : MonoBehaviour {
   
     public float speed = 6f;
     public float turnSmoothTime = 80f;
+    public Animator anim;
 
-    private bool isInventaire = false;
+    static bool isInventaire;
+
+    public bool aaaaaah;
+
+
+
+    public void SwitchInventaire (bool inventaire) {
+        
+        isInventaire = inventaire;
+        Debug.Log ("switch ! " + isInventaire);
+
+        // Changer l'anim si en mode inventaire
+        if (isInventaire == true) {
+            anim.SetBool("isInventaire", true);
+        } else {
+             anim.SetBool("isInventaire", false);
+        }
+    }
+
 
     void FixedUpdate() {
-
+        
         // Ne faire que si inventaire pas actif 
         if (isInventaire == false) {
             
+            Debug.Log ("j'avance "+isInventaire);
+
             //Recup input z (W car qwerty)
             float forwardZ = Input.GetKey(KeyCode.W) ? 1 : 0;
 
@@ -30,46 +51,26 @@ public class ThirdPersonMovment : MonoBehaviour {
                 Vector3 moveDir = transform.rotation * Vector3.forward;
                 controller.Move(moveDir.normalized * speed * Time.deltaTime);
 
+                // Dire à l'anim qu'on bouge
+                anim.SetBool("isMove", true);
+            } else {
+                // Dire à l'anim qu'on bouge pas
+                anim.SetBool("isMove", false);
             }
+
+        }
+
+        // Dire à l'anim qu'on bouge
+        if (Input.GetKeyDown (KeyCode.W)) {
+            anim.SetBool("isMove", true);
+            Debug.Log ("appui");
+        }
+        if (Input.GetKeyUp (KeyCode.W)) {
+            anim.SetBool("isMove", false);
+            Debug.Log ("relache");
         }
     }
 
-    public void SwitchInventaire (bool inventaire) {
-        isInventaire = inventaire;
-        Debug.Log ("switch !");
 
-    }
-
-    /* Vielle version 
-     * 
-        private float turnSmoothVelocity;
-
-        // Déplacement input zqsd
-        float horizontal = Input.GetAxisRaw("Horizontal"); //x
-        float vertical = Input.GetAxisRaw("Vertical"); //z
-        // Recup input a et e (A c'est Q parce que qwerty)
-        float upDown = (Input.GetKey(KeyCode.Q) ? -1 : 0) + (Input.GetKey(KeyCode.E) ? 1 : 0); //y
-
-        // Récup de la direction x, y, z
-        Vector3 direction = new Vector3(horizontal, upDown, vertical).normalized;
-
-        if (direction.magnitude >= 0.1f) {
-
-            // Avancer en fonction de la cam 
-            Vector3 moveDir = transform.rotation * Vector3.forward;
-            controller.Move(moveDir.normalized * speed * Time.deltaTime);
-        }
-
-
-        // calcul de l'angle de rotation
-        float targetAngleY = Mathf.Atan2(direction.x, direction.z) * Mathf.Rad2Deg + cam.eulerAngles.y;
-        float targetAngleX = Mathf.Atan2(direction.y, direction.z) * Mathf.Rad2Deg;
-
-        // Ajoute smooth à la rotation
-        float angle = Mathf.SmoothDampAngle(transform.eulerAngles.y, targetAngleY, ref turnSmoothVelocity, turnSmoothTime);
-        // Fait tourner
-        transform.rotation = Quaternion.Euler(0f, angle, targetAngleX); 
-
-
-  */
+        
 }
