@@ -28,6 +28,7 @@ public class Switch_Cam : MonoBehaviour {
             cineCam2.enabled = iSInventaire;
 
             // indique à thirdPersonMovement si l'inventaire est activé (si oui on stop le mouvment du joueur)
+            
             thirdPersonMovment.SwitchInventaire(iSInventaire);
         }
     }

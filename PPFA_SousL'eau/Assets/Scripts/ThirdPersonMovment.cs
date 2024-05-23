@@ -11,32 +11,14 @@ public class ThirdPersonMovment : MonoBehaviour {
     public float turnSmoothTime = 80f;
     public Animator anim;
 
-    static bool isInventaire;
-
-    public bool aaaaaah;
-
-
-
-    public void SwitchInventaire (bool inventaire) {
-        
-        isInventaire = inventaire;
-        Debug.Log ("switch ! " + isInventaire);
-
-        // Changer l'anim si en mode inventaire
-        if (isInventaire == true) {
-            anim.SetBool("isInventaire", true);
-        } else {
-             anim.SetBool("isInventaire", false);
-        }
-    }
-
+    private bool isInventaire;
 
     void FixedUpdate() {
         
         // Ne faire que si inventaire pas actif 
         if (isInventaire == false) {
             
-            Debug.Log ("j'avance "+isInventaire);
+            // Debug.Log ("j'avance "+isInventaire);
 
             //Recup input z (W car qwerty)
             float forwardZ = Input.GetKey(KeyCode.W) ? 1 : 0;
@@ -57,20 +39,31 @@ public class ThirdPersonMovment : MonoBehaviour {
                 // Dire à l'anim qu'on bouge pas
                 anim.SetBool("isMove", false);
             }
-
         }
 
         // Dire à l'anim qu'on bouge
         if (Input.GetKeyDown (KeyCode.W)) {
             anim.SetBool("isMove", true);
-            Debug.Log ("appui");
+            // Debug.Log ("appui");
         }
         if (Input.GetKeyUp (KeyCode.W)) {
             anim.SetBool("isMove", false);
-            Debug.Log ("relache");
+            // Debug.Log ("relache");
         }
     }
 
 
+    public void SwitchInventaire (bool inventaire) {
+
+        isInventaire = inventaire;
+        // Debug.Log ("switch ! " + isInventaire);
+
+        // Changer l'anim si en mode inventaire
+        if (isInventaire == true) {
+            anim.SetBool("isInventaire", true);
+        } else {
+            anim.SetBool("isInventaire", false);
+        }
+    }
         
 }

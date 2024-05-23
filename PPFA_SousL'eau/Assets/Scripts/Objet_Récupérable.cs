@@ -6,6 +6,8 @@ public class Objet_Récupérable : MonoBehaviour {
 
     public float num_objet;
 
+    public Inventaire_manager manager;
+
     void Start() {
         
     }
@@ -17,6 +19,8 @@ public class Objet_Récupérable : MonoBehaviour {
     void OnTriggerEnter() {
         // Detruir l'objet
         Destroy(this.gameObject);
+
         // Appel pour mettre l'objet dans l'inventaire 
+        manager.Recupere(num_objet);
     }
 }
