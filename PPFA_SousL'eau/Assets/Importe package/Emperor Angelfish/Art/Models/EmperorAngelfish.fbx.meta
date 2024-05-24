@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 617efb85c35f59f4eb701efedec7c310
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 0
+      lastFrame: 800
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EmperorAngelfish_body3
+        weight: 1
+      - path: EmperorAngelfish_fins1
+        weight: 1
+      - path: EmperorAngelfish_root
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_1/EmperorAngelfish_fin_l_1_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_2/EmperorAngelfish_fin_l_2_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_3/EmperorAngelfish_fin_l_3_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_4
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_l/EmperorAngelfish_fin_l_4/EmperorAngelfish_fin_l_4_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_l_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_l_1/EmperorAngelfish_fin_pectoralFront_l_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_l_1/EmperorAngelfish_fin_pectoralFront_l_2/EmperorAngelfish_fin_pectoralFront_l_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_l_1/EmperorAngelfish_fin_pectoralFront_l_2/EmperorAngelfish_fin_pectoralFront_l_3/EmperorAngelfish_fin_pectoralFront_l_4
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_l_1/EmperorAngelfish_fin_pectoralFront_l_2/EmperorAngelfish_fin_pectoralFront_l_3/EmperorAngelfish_fin_pectoralFront_l_4/EmperorAngelfish_fin_pectoralFront_l_5
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_l_1/EmperorAngelfish_fin_pectoralFront_l_2/EmperorAngelfish_fin_pectoralFront_l_3/EmperorAngelfish_fin_pectoralFront_l_4/EmperorAngelfish_fin_pectoralFront_l_5/EmperorAngelfish_fin_pectoralFront_l_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_r_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_r_1/EmperorAngelfish_fin_pectoralFront_r_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_r_1/EmperorAngelfish_fin_pectoralFront_r_2/EmperorAngelfish_fin_pectoralFront_r_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_r_1/EmperorAngelfish_fin_pectoralFront_r_2/EmperorAngelfish_fin_pectoralFront_r_3/EmperorAngelfish_fin_pectoralFront_r_4
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_r_1/EmperorAngelfish_fin_pectoralFront_r_2/EmperorAngelfish_fin_pectoralFront_r_3/EmperorAngelfish_fin_pectoralFront_r_4/EmperorAngelfish_fin_pectoralFront_r_5
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_pectoralFront_r_1/EmperorAngelfish_fin_pectoralFront_r_2/EmperorAngelfish_fin_pectoralFront_r_3/EmperorAngelfish_fin_pectoralFront_r_4/EmperorAngelfish_fin_pectoralFront_r_5/EmperorAngelfish_fin_pectoralFront_r_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_1/EmperorAngelfish_fin_r_1_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_2/EmperorAngelfish_fin_r_2_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_3/EmperorAngelfish_fin_r_3_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_4
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_fin_r/EmperorAngelfish_fin_r_4/EmperorAngelfish_fin_r_4_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_head
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_head/EmperorAngelfish_eye_l
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_head/EmperorAngelfish_eye_r
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_head/EmperorAngelfish_jaw
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_head/EmperorAngelfish_jaw/EmperorAngelfish_jaw_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_fin_pectoral1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_fin_pectoral1/EmperorAngelfish_fin_pectoral1_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_fin_pectoral2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_fin_pectoral2/EmperorAngelfish_fin_pectoral2_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_fin_pectoral3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_fin_pectoral3/EmperorAngelfish_fin_pectoral3_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_fin_pectoral3/EmperorAngelfish_fin_pectoral3_2/EmperorAngelfish_fin_pectoral3_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_fin_pectoral4
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_fin_pectoral4/EmperorAngelfish_fin_pectoral4_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_fin_pectoral4/EmperorAngelfish_fin_pectoral4_2/EmperorAngelfish_fin_pectoral4_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_spine_fin7_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_spine_fin7_1/EmperorAngelfish_spine_fin7_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_spine_fin7_1/EmperorAngelfish_spine_fin7_2/EmperorAngelfish_spine_fin7_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_spine_fin8_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_spine_fin8_1/EmperorAngelfish_spine_fin8_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_spine_fin8_1/EmperorAngelfish_spine_fin8_2/EmperorAngelfish_spine_fin8_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_tail_1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_tail_1/EmperorAngelfish_tail_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_tail_1/EmperorAngelfish_tail_2/EmperorAngelfish_tail_3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_4/EmperorAngelfish_tail_1/EmperorAngelfish_tail_2/EmperorAngelfish_tail_3/EmperorAngelfish_tail_3_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_fin6
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_fin6/EmperorAngelfish_spine_fin6_2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_3/EmperorAngelfish_spine_fin6/EmperorAngelfish_spine_fin6_2/EmperorAngelfish_spine_fin6_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_fin4
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_fin4/EmperorAngelfish_spine_fin4_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_fin5
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_2/EmperorAngelfish_spine_fin5/EmperorAngelfish_spine_fin5_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_fin2
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_fin2/EmperorAngelfish_spine_fin2_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_fin3
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_1/EmperorAngelfish_spine_fin3/EmperorAngelfish_spine_fin3_tip
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_fin1
+        weight: 1
+      - path: EmperorAngelfish_root/EmperorAngelfish_spine_0/EmperorAngelfish_spine_fin1/EmperorAngelfish_spine_fin1_tip
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 10
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
